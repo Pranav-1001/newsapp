@@ -55,8 +55,9 @@ HeadlineHub is a web-based news application that provides users with news articl
 
 Here are some screenshots of the iNotebook app in action:
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](https://user-images.githubusercontent.com/72593204/264548313-ca5eadf4-edfd-4124-8db8-294b739ade0f.png)
+![Screenshot 2](https://user-images.githubusercontent.com/72593204/264548392-ba042cfe-6fe0-49b1-a1bc-cc6b1882f3b6.png)
+![Screenshot 3](https://user-images.githubusercontent.com/72593204/264548414-8a2dbe53-973b-4e22-808b-f4558fab9226.png)
 <!-- Add more screenshots as needed -->
 
 ## Contributing
